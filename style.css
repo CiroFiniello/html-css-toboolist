@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+body{
+  background-color: rgb(250, 251, 245);
+}
+.container{
+  margin-left: 22%;
+  max-width: 1000px;
+  height: 1080px;
+  background-color: white;
+}
+.logo{
+  display: inline-block;
+}
+#idlogo{
+  width: 90px;
+  vertical-align: middle;
+}
+.h1-logo{
+  font-size: 70px;
+  vertical-align: middle;
+  display: inline;
+}
+.btn{
+  max-width: 1000px;
+  height: 100%;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-left: 22%;
+  padding: .5em 2em;
+  
+}
+#idbtn{
+  border: 0;
+  padding: 3px 27px;
+  background-color: rgb(70, 207, 252);
+  color: white;
+  border-radius: 5px
+}#idbtn2{
+  border: 1 solid rgb(191, 191, 191);
+  padding: 3px 27px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(140, 140, 140);
+  border-radius: 5px
+}
