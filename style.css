@@ -36,13 +36,31 @@ body{
 #idbtn{
   border: 0;
   padding: 3px 27px;
-  background-color: rgb(70, 207, 252);
-  color: white;
   border-radius: 5px
 }#idbtn2{
-  border: 1 solid rgb(191, 191, 191);
+  border: #c9c9c9 solid 1px;
   padding: 3px 27px;
   background-color: rgb(255, 255, 255);
-  color: rgb(140, 140, 140);
   border-radius: 5px
 }
+.bg-blue{
+  background-color: #45abea;
+}
+.font-white{
+  color: white;
+}
+ul{
+  color: #484c55;
+  list-style-type: none;
+  margin-bottom: 1.5rem;
+}
+li{
+  margin-bottom: .25rem;
+}
+/* .arrow{
+  content: '>';
+  content: "\1F783"; 
+  font-size: 2rem;
+
+} */
+  
