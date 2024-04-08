@@ -46,8 +46,29 @@ body{
 .bg-blue{
   background-color: #45abea;
 }
+.bg-purple{
+  background-color: #9c72e4;
+}
+.bg-pink{
+  background-color: #d863a1;
+}
+.bg-green{
+  background-color: #64c0a9;
+}
+.bg-orange{
+  background-color: #f29e33;
+}
+.bg-light-green{
+  background-color: #51f96a;
+}
 .font-white{
   color: white;
+}
+.tag{
+padding: 0 .6rem;
+color: white;
+border-radius: .5rem;
+font-size: 0.65rem;
 }
 ul{
   color: #484c55;
